@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          This website is currently being updated. Please check back later!
+          This website is currently under maintenance. Please check back later!
         </p>
       </header>
     </div>
